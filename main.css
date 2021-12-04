@@ -46,6 +46,13 @@ p#principal{
 }
 main#rds{
     background-color: white ;
+    margin-bottom: 295px;
+}
+main#pjt{
+    margin: 250px 0px 250px 0px;
+}
+main#home{
+    margin-bottom: 95px;
 }
 article.conteudo{
     background-color: whitesmoke;
@@ -61,6 +68,9 @@ article.conteudo>h1{
 }
 h1.direita{
     text-align: right;
+}
+h1#pjt{
+    text-align: center;
 }
 p.direita{
     text-align: right;
