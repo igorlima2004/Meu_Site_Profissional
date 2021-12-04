@@ -59,6 +59,12 @@ article.conteudo{
 article.conteudo>h1{
     margin-top: 50px;
 }
+h1.direita{
+    text-align: right;
+}
+p.direita{
+    text-align: right;
+}
 article#rds{
     background-color: whitesmoke;
     margin: 0px 50px;
